@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-muhni&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-muhni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-muhni" alt="mohamed-muhni" /></a> </p>
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="max-width: auto; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🌱 I’m currently learning *🎓 Undergraduate IT Student*
 
