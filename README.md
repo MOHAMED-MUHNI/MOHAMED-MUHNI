@@ -47,10 +47,7 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
   </p>
 
-- ⚡ **Random Developer Fact**  
-  <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical"/>
-  </p>
+
 
 ---
 
