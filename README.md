@@ -11,7 +11,8 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="max-width: 300px; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="max-width: 300px; display: inline-block; margin-left: 10px; border-radius: 8px;" data-target="animated-image.originalImage" />
+
 
 - 🌱 I’m currently pursuing a **Bachelor's degree in IT at the University of Moratuwa.**
 
