@@ -1,15 +1,16 @@
 <h1 align="center">👋 Hi, I'm MOHAMED MUHNI</h1>
 <h3 align="center">🎓 Undergraduate IT Student | University of Moratuwa, Sri Lanka 🌟 Passionate about Machine Learning, Artificial Intelligence, and Front-End Development</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohamed-muhni&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-muhni" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mohamed-muhni" alt="mohamed-muhni" />
   </a>
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-muhni&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-muhni" />
+</p>
+
+
 
 
 
