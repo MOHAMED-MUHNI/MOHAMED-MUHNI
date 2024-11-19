@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm MOHAMED MUHNI</h1>
+<h1 align="center">👋 Hi, I'M MOHAMED MUHNI</h1>
 <h3 align="center">🎓 Undergraduate IT Student | University of Moratuwa, Sri Lanka 🌟 Passionate about Machine Learning, Artificial Intelligence, and Front-End Development</h3>
 
 <p align="center">
