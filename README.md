@@ -18,7 +18,7 @@
 </h1>
 
      
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" hight="200"></h1>
+</h1><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" hight="200"></h1>
 
 
 - 🌱 I’m currently pursuing a **Bachelor's degree in IT at the University of Moratuwa.**
