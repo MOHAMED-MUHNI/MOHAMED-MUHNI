@@ -42,10 +42,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mohamed-muhni&column=7&theme=darkhub"/>
   </p>
 
-- 🌍 **Dynamic Quotes**  
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-  </p>
+
 
 
 
