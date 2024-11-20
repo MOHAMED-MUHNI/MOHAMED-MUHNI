@@ -90,7 +90,9 @@
 
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1122F7&width=435&lines=HI,+FRIENDS+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
 </h1>
 
 
