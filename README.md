@@ -87,9 +87,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 ---
-<p align="center">
-    <img src="https://giphy.com/embed/3SL41WtN5l9DNdPJGs" width="480" height="480" frameBorder="0" allowFullScreen></iframe>
-</p>
+<h1><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" hight="200"></h1>
+
 
 
 
