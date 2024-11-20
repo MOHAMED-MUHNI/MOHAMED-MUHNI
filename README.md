@@ -68,8 +68,11 @@
 
 <h2 align="left">🤝 Connect with Me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhni-mohamed-8b99b9320" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" /></a>
-  <a href="https://www.instagram.com/baithullah_muhny/profilecard/?igsh=nhmxztv0emltmgw5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30" /></a>
-  <a href="https://www.hackerrank.com/profile/muhnymo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="30" height="30" /></a>
+  <a href="https://www.linkedin.com/in/muhni-mohamed-8b99b9320" target="_blank"><img align="center"           
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin- original.svg" alt="LinkedIn" width="30" height="30" /></a>
+  <a href="https://www.instagram.com/baithullah_muhny/profilecard/?igsh=nhmxztv0emltmgw5" target="_blank"><img align="center"   
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30" /></a>
+  <a href="https://www.hackerrank.com/profile/muhnymo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank- 
+      original.svg" alt="HackerRank" width="30" height="30" /></a>
 </p>
 
