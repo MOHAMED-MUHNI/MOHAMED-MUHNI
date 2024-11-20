@@ -86,5 +86,11 @@
   <a href="https://www.hackerrank.com/profile/muhnymo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
+---
+
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
+</h1>
 
 
