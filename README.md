@@ -88,8 +88,10 @@
 </p>
 ---
 
-<iframe src="https://giphy.com/embed/3SL41WtN5l9DNdPJGs" width="400" height="400" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/stickers/thecodingspacerd-coder-letscode-thecodingspace-3SL41WtN5l9DNdPJGs">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+  <iframe src="https://giphy.com/embed/3SL41WtN5l9DNdPJGs" width="100%" height="100%" style="position:absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
 
 
