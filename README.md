@@ -88,11 +88,8 @@
 </p>
 ---
 
+<iframe src="https://giphy.com/embed/3SL41WtN5l9DNdPJGs" width="400" height="400" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/stickers/thecodingspacerd-coder-letscode-thecodingspace-3SL41WtN5l9DNdPJGs">via GIPHY</a></p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1122F7&width=435&lines=HI,+FRIENDS+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</h1>
 
 
