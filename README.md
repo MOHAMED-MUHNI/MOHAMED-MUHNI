@@ -87,7 +87,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 ---
-<h1><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Fubmc5Zmt3MmpncDM4Nmd3YTA0dXFnNGw2Y25menBhczU3MzE0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.webp" alt="Coder GIF" width="500" hight="200"></h1>
+<h1><center><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Fubmc5Zmt3MmpncDM4Nmd3YTA0dXFnNGw2Y25menBhczU3MzE0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.webp" alt="Coder GIF" width="200" hight="100"></center></h1>
 
 
 
