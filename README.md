@@ -66,29 +66,12 @@
 
 ---
 
-### 🛠️ **Projects**
-#### 📌 [Personal Portfolio Website](https://github.com/mohamed-muhni/portfolio-website)  
-A responsive and visually appealing personal website showcasing my skills, projects, and contact details.
+### 🎯 **Projects**
+#### 🔗 [Project Name 1](#)  
+Description of Project 1.
 
-#### 📌 [AI-Powered Chatbot](https://github.com/mohamed-muhni/ai-chatbot)  
-A chatbot utilizing Python and NLP libraries to provide conversational AI solutions.
-
-#### 📌 [E-Commerce Website](https://github.com/mohamed-muhni/e-commerce-website)  
-A full-stack e-commerce platform using HTML, CSS, JavaScript, PHP, and MySQL.
-
-Feel free to explore more of my [repositories](https://github.com/mohamed-muhni?tab=repositories).
-
----
-
-### 🏆 **Certifications & Badges**
-- **[Coursera: Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)**  
-  Completed foundational concepts of machine learning and practical implementations.
-  
-- **[Microsoft Certified: Azure Fundamentals](https://www.microsoft.com/en-us/learning/azure-fundamentals.aspx)**  
-  Learned about cloud concepts, Azure services, security, privacy, and compliance.
-
-- **[Udemy: Front-End Web Development Bootcamp](https://www.udemy.com/certificate/XXXXXX)**  
-  Mastered front-end technologies including HTML, CSS, JavaScript, and modern frameworks.
+#### 🔗 [Project Name 2](#)  
+Description of Project 2.
 
 ---
 
