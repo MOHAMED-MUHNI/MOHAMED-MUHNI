@@ -11,6 +11,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://holopin.io/@mohamedmuhni">
+    <img src="https://holopin.me/mohamedmuhni" alt="An image of @mohamedmuhni's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
+</p>
+
 ---
 
 <h2 align="center">
