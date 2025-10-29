@@ -17,6 +17,10 @@
   </a>
 </p>
 
+<p align="center">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15992e6e-b99a-44b6-af42-083dfde420c8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
+
 ---
 
 <h2 align="center">
