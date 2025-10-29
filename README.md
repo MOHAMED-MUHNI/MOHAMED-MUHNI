@@ -18,8 +18,11 @@
 </p>
 
 <p align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15992e6e-b99a-44b6-af42-083dfde420c8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/15992e6e-b99a-44b6-af42-083dfde420c8/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/your_badge_image_id.png" alt="Credly Badge" width="150" height="150"/>
+  </a>
 </p>
+
 
 ---
 
