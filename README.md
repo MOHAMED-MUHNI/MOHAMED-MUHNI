@@ -17,11 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/15992e6e-b99a-44b6-af42-083dfde420c8/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/your_badge_image_id.png" alt="Credly Badge" width="150" height="150"/>
-  </a>
-</p>
 
 
 ---
