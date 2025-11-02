@@ -15,6 +15,11 @@
   <a href="https://holopin.io/@mohamedmuhni">
     <img src="https://holopin.me/mohamedmuhni" alt="An image of @mohamedmuhni's Holopin badges, which is a link to view their full Holopin profile" />
   </a>
+  <a href="https://www.credly.com/badges/7fe752cd-fcf0-46fe-a395-46bf6c4dc0fd/public_url">
+    <img src="https://drive.google.com/uc?export=view&id=1ITt9HcslR2pctHbcC6UOzqf-BF6OLXwo" 
+         alt="Introduction to Linux - The Linux Foundation" 
+         width="200" height="200" />
+  </a>
 </p>
 
 
