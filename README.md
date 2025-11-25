@@ -29,14 +29,12 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<p align="center">
-  <img alt="Profile Animation" width="100%" src="1.gif">
-</p>
+<img alt="Profile Animation" width="90%" src="1.gif">
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 ```javascript
 const muhni = {
@@ -63,8 +61,6 @@ const muhni = {
 </td>
 </tr>
 </table>
-
-<br clear="right"/>
 
 ---
 
