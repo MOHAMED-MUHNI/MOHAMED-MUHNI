@@ -1,114 +1,211 @@
-<h1 align="center">👋 Hi, I'M MOHAMED MUHNI</h1>
-<h3 align="center">🎓 Undergraduate IT Student | University of Moratuwa, Sri Lanka 🌟 Passionate about Machine Learning, Artificial Intelligence, and Front-End Development</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Muhni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Undergraduate+IT+Student+%F0%9F%8E%93;University+of+Moratuwa%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+%26+Front-End+Developer+%F0%9F%92%BB;Continuous+Learner+%26+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamed-muhni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamed-muhni&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=mohamed-muhni&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/muhni-mohamed-8b99b9320">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muhnymo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://pdf.ac/4gln3d">
+    <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> About Me
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Fubmc5Zmt3MmpncDM4Nmd3YTA0dXFnNGw2Y25menBhczU3MzE0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif">
+
+```javascript
+const muhni = {
+    education: "IT Undergraduate @ UoM",
+    location: "Sri Lanka 🇱🇰",
+    interests: [
+        "Software enginner",
+        "Full-Stack & DevOps Enthusiast",
+        "Artificial Intelligence" 
+    ],
+    currentFocus: "Building AI/ML solutions",
+    learning: "Advanced AI & Cloud Tech",
+    funFact: "Fast learner & Problem Solver ⚡"
+};
+```
+
+<br>
+
+🎓 **Education:** Pursuing Bachelor's in IT at University of Moratuwa  
+💡 **Passion:** Creating innovative solutions that solve real-world problems  
+🔭 **Focus:** Intersection of AI, ML, and modern web technologies  
+📚 **Learning:** Constantly adapting to emerging technologies  
+🤝 **Collaboration:** Open to working on innovative projects  
+⚡ **Superpower:** Quick learning & hands-on problem solving
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🏆 Achievements & Recognition
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-muhni&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎖️ Holopin Badges
+
+<a href="https://holopin.io/@mohamedmuhni">
+  <img src="https://holopin.me/mohamedmuhni" alt="Holopin Badges" width="100%"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 📜 Certifications
+
+<a href="https://www.credly.com/badges/7fe752cd-fcf0-46fe-a395-46bf6c4dc0fd/public_url">
+  <img src="https://drive.google.com/uc?export=view&id=1ITt9HcslR2pctHbcC6UOzqf-BF6OLXwo" 
+       alt="Linux Foundation" 
+       width="140" height="140" />
+</a>
+
+**Introduction to Linux**  
+*The Linux Foundation*
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💻 Tech Stack & Skills
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Programming Languages
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frameworks & Libraries
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mohamed-muhni&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-muhni&theme=radical&hide_border=true&background=0D1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-muhni&layout=compact&theme=radical&hide_border=true&title_color=ff6e96&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-muhni&custom_title=Mohamed%20Muhni's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ff6e96&line=ff6e96&point=FFFFFF&title_color=ff6e96&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
 <p align="center">
-  <a href="https://holopin.io/@mohamedmuhni">
-    <img src="https://holopin.me/mohamedmuhni" alt="An image of @mohamedmuhni's Holopin badges, which is a link to view their full Holopin profile" />
+  <a href="https://www.linkedin.com/in/muhni-mohamed-8b99b9320">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.credly.com/badges/7fe752cd-fcf0-46fe-a395-46bf6c4dc0fd/public_url">
-    <img src="https://drive.google.com/uc?export=view&id=1ITt9HcslR2pctHbcC6UOzqf-BF6OLXwo" 
-         alt="Introduction to Linux - The Linux Foundation" 
-         width="200" height="200" />
+  <a href="mailto:muhnymo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/share/1qqgmbd7si/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/baithullah_muhny/profilecard/?igsh=nhmxztv0emltmgw5">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/muhnymo">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
 
-
-
----
-
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1122F7&width=435&lines=Welcome+to+My+Profile!+👋" alt="Typing SVG" />
-  </a>
-</h2>
-
-- 🌱 **Currently Learning:**  
-  Pursuing a Bachelor's degree in IT at the University of Moratuwa.
-
-- 💬 **About Me:**  
-  I'm passionate about creating projects that combine AI, ML, and modern front-end practices to solve real-world problems. I thrive on continuous learning and hands-on experience.
-
-- 📄 **Resume:** [View Here](https://pdf.ac/4gln3d)  
-  - 📫 **Email:** [muhnymo@gmail.com](mailto:muhnymo@gmail.com)  
-  - ⚡ **Fun Fact:** I consider myself a fast learner!
+</div>
 
 ---
 
-<h2 align="left">🚀 Skills & Tools:</h2>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" 
-                                                                  width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
-                                                       alt="MongoDB" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
+<div align="center">
 
+### 💭 Random Dev Quote
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### ✨ *"The only way to do great work is to love what you do."* - Steve Jobs
 
+<br>
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
----
+**⭐️ From [mohamed-muhni](https://github.com/mohamed-muhni) | © 2025**
 
-<h2 align="left">📊 GitHub Stats:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-muhni&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-muhni&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-muhni&theme=radical" alt="GitHub Streak" />
-</p>
+*Thanks for visiting! Feel free to star ⭐ my repositories if you find them interesting!*
 
----
-
-<h2 align="left">🌱 Contribution Graph:</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-muhni&theme=react-dark&area=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhni-mohamed-8b99b9320" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/share/1qqgmbd7si/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/baithullah_muhny/profilecard/?igsh=nhmxztv0emltmgw5" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/muhnymo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
-
-<center><h1 style="text-align: center;">
-    <img    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Fubmc5Zmt3MmpncDM4Nmd3YTA0dXFnNGw2Y25menBhczU3MzE0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.webp" alt="Coder GIF" style="width: 200px; height: 100px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
-</h1></center>
-
-
-
-
-
-
-
-
-
+</div>
