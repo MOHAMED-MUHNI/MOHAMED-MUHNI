@@ -27,9 +27,16 @@
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 <p align="center">
-  <img align="center" alt="Profile Animation" width="470" style="border-radius: 50%; opacity: 0.9;" src="1.gif">
+  <img alt="Profile Animation" width="100%" src="1.gif">
 </p>
+
+</td>
+<td width="50%" valign="top">
 
 ```javascript
 const muhni = {
@@ -46,14 +53,16 @@ const muhni = {
 };
 ```
 
-<br>
-
 🎓 **Education:** Pursuing Bachelor's in IT at University of Moratuwa  
 💡 **Passion:** Creating innovative solutions that solve real-world problems  
 🔭 **Focus:** Intersection of AI, ML, and modern web technologies  
 📚 **Learning:** Constantly adapting to emerging technologies  
 🤝 **Collaboration:** Open to working on innovative projects  
 ⚡ **Superpower:** Quick learning & hands-on problem solving
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
